@@ -1,7 +1,7 @@
 Exist Software Labs, Inc. (PH)  
 Exist Code Camp (ECC)  
 
-### Exercise 4: Maven Multi-Module  
+### Exercise 5: Maven Multi-Module  
 Convert Exercise 4 into a multi-module Maven project with the following sub-modules:  
 
 1.  App Layer  
